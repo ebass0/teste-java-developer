@@ -18,10 +18,6 @@ Este projeto foi desenvolvido como parte de um processo seletivo da empresa TGID
 
 - **Java:** A linguagem de programação principal para o desenvolvimento.
 
-- **Maven:** Gerenciador de dependências para o projeto.
-
-- **JUnit:** Framework de testes para garantir a qualidade do código.
-
 ## Como Executar o Projeto
 
 1. Clone o repositório para o seu ambiente local.
